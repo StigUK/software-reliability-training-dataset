@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Software Reliability Training Dataset"
+authors:
+  - family-names: "Prus"
+    given-names: "Bohdan"
+year: 2026
+license: "CC-BY-4.0"
+type: dataset
